@@ -1,0 +1,89 @@
+body {
+
+    font-family: Taxoma;
+    margin: 0;
+    background: url(../img/road.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.mail{
+    border: 2px solid blue;
+    width: 500px;
+    height: 100px;
+    padding: 15px;
+    background-color: aliceblue;
+    border-radius: 10px;
+    margin: 0 auto;
+}
+.j1{
+    margin: 0 auto;
+}
+.mail-title{
+    text-align: center;
+    font-size: 30px;
+}
+.inside{
+    background-color: chocolate;
+}
+.D3{
+    background-color: azure;
+    margin: 30px;
+}
+.table{
+    border-collapse:separate;
+    border-spacing: 0px;
+    margin: 0 auto;
+    padding: 5px;
+}
+.table th{
+    border: 2px solid black;
+}
+.table td{
+    border: 1px solid black;
+}
+.div-left{
+    position: static;
+    background-color: azure;
+    border-top-right-radius: 10px;
+    border: solid black;
+    border-width: 2px 2px 2px 0;
+    max-height: none;
+    max-width: 200px;
+    margin: 10px 20px 10px 0;
+    padding-left: 10px;
+    padding-bottom: 10px;
+
+}
+.div-right{
+    background-color: azure;
+    text-align: left;
+    padding-left: 15px;
+    border: 2px solid black;
+    height: auto;
+    width: auto;
+    margin: 10px 20px 10px 215px;
+    position:relative;
+    top: -227px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+
+}
+.end{
+    background-color: grey;
+    width:auto;
+    height:auto:
+    position:static;
+    margin: 25px 0 0 0;
+    padding: 20px;
+    border-top: 2px solid black;
+
+}
+
+.k1{
+    background-color:azure;
+    width: auto;
+    margin: 0 50px 0 50px;
+    padding-left: 10px;
+}
